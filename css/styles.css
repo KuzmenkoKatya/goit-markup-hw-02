@@ -4,7 +4,7 @@
     --accent-color: #2196f3;
     --white-color: #ffffff;
     --logo-text-color: #000000;
-    --sacondary-white-color: rgba(255, 255, 255, 0.6);
+    --sacondary-white-color: #ffffff;
     --primary-background-color: #f5f4fa;
     --sacondary-background-color: #e5e5e5;
     --footer-bacground-color: #2f303a;}  
@@ -85,7 +85,7 @@
     text-transform: uppercase;
     color: var(--title-text-color);}
 /* Чем мы занимаемся */
-    .directions-photo {display: block;}  
+   .directions-photo {display: block;}  
 /* Наша команда */
     .our-team .our-team-employee {
     font-weight: 500;
